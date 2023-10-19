@@ -1,2 +1,2 @@
-# mansur
-![ScreenShot].(paint.png)
+
+![Screenshot].(paint.png)
